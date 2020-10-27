@@ -1,2 +1,4 @@
 # REST-api
-Creating my own RESTful API pretty simply.
+Create your own RESTful API.
+
+
